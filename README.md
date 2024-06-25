@@ -1,4 +1,4 @@
-# s21_matrix
+# matrix
 
 Implementation of the matrix.h library.
 
